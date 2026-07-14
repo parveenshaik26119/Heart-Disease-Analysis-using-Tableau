@@ -1,0 +1,28 @@
+Title:
+Heart Disease Analysis using Tableau
+
+Abstract
+Heart disease is a major global health concern. This project uses Tableau visualization techniques to analyze healthcare data and identify important risk factors associated with heart disease.
+
+The project examines patient demographics, medical conditions, and lifestyle factors to discover hidden patterns and trends.
+
+Problem Statement
+Healthcare organizations generate large amounts of patient data. Extracting useful insights from this data is challenging without proper visualization tools. This project solves the problem by creating interactive Tableau dashboards.
+
+Methodology
+Data Collection
+Data Cleaning
+Data Analysis
+Dashboard Creation
+Insight Generation
+Results
+
+The analysis identifies important relationships between:
+
+Age and heart disease
+Cholesterol and disease risk
+BMI and health condition
+Smoking habits and heart problems
+
+Conclusion
+Tableau provides an effective platform for analyzing healthcare data and supporting preventive healthcare decisions.
