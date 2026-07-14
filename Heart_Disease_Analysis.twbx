@@ -1,0 +1,19 @@
+This Tableau workbook contains interactive dashboards created for heart disease analysis.
+
+Dashboards included:
+
+1. Overview Dashboard
+- Total patients
+- Heart disease cases
+- Age distribution
+- Gender analysis
+
+2. Risk Factor Dashboard
+- Cholesterol analysis
+- BMI impact
+- Smoking impact
+- Blood pressure analysis
+
+3. Lifestyle Dashboard
+- Physical activity comparison
+- Lifestyle risk analysis
